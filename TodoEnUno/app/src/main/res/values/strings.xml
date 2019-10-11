@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoEnUno</string>
+    <string name="nextPlayer">Turno: %1$s</string>
+    <string name="principal">Inicio</string>
+    <string name="salir">Salir</string>
+    <string name="calculadora_de_viaje">Calculadora de viaje</string>
+    <string name="calculadora_de_prestamo">Calculadora de prestamo</string>
+    <string name="game">Juego Cat#</string>
+    <string name="winner">Ganador: %1$s</string>
+</resources>
